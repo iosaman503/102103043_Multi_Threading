@@ -1,4 +1,4 @@
-# Assignment : Multiply 100 random matrices of size 2K X 2K with a constant matrix of size 1K X 1K and generate the result table, graph and CPU Usage.
+# Assignment : Multiply 100 random matrices of size 1K X 1K with a constant matrix of size 1K X 1K and generate the result table, graph and CPU Usage.
 
 ## Overview :
 The purpose of this project is to demonstrate the effectiveness of multi-threading in matrix multiplication tasks. Matrix multiplication is a computationally intensive operation, and parallelizing it using multiple threads can potentially improve the performance.
